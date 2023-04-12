@@ -1,0 +1,7 @@
+[2023-04-08 00:33:20] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-04-08 00:35:16] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2023-04-08 00:35:20] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:45388->127.0.0.1:8567: use of closed network connection 
+[2023-04-08 00:36:44] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2023-04-08 00:36:48] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:45634->127.0.0.1:8567: use of closed network connection 
+[2023-04-08 00:36:51] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8567/ws 时出现错误: dial tcp 127.0.0.1:8567: connect: connection refused 
+[2023-04-08 00:36:54] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8567/ws 时出现错误: read tcp 127.0.0.1:45762->127.0.0.1:8567: read: connection reset by peer 

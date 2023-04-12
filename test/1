@@ -1,0 +1,8 @@
+        "pig_fever_groin": 1.2,
+        "pig_die_one": 28.0,
+        "pig_die_multi": 36.0,
+        "h20t_low": 20.0,
+        "h20t_high": 32.0
+    },
+    "mysql_host": "10.102.253.81",
+    "log_level": 0,

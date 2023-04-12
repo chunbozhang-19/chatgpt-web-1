@@ -1,0 +1,13 @@
+[0m2023-04-09 16:38:06 V/Net 1157091467: Validated caches.[0m
+[0m2023-04-09 16:38:06 V/Net 1157091467: No server list cached.[0m
+[92m2023-04-09 16:38:06 I/Net 1157091467: ECDH key is invalid, start to fetch ecdh public key from server.[0m
+[92m2023-04-09 16:38:07 I/Net 1157091467: Successfully fetched ecdh public key from server.[0m
+[0m2023-04-09 16:38:07 V/Net 1157091467: Send: wtlogin.login(9:password-login)[0m
+[0m2023-04-09 16:38:08 V/Net 1157091467: Recv: wtlogin.login[0m
+[93m2023-04-09 16:38:08 W/Net 1157091467: Exception in resumeConnection.
+org.jline.reader.EndOfFileException
+	at org.jline.reader.impl.LineReaderImpl.readLine(LineReaderImpl.java:653)
+	at net.mamoe.mirai.console.terminal.JLineInputDaemon.run(JLineInputDaemon.kt:78)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+[0m
+[93m2023-04-09 16:38:08 W/Net 1157091467: Network selector received exception, closing bot. (org.jline.reader.EndOfFileException)[0m

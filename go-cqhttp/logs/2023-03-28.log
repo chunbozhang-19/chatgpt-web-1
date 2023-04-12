@@ -1,0 +1,11 @@
+[2023-03-28 09:11:58] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2023-03-28 09:12:03] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:58680->127.0.0.1:8566: use of closed network connection 
+[2023-03-28 09:19:08] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2023-03-28 09:19:13] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:49828->127.0.0.1:8566: use of closed network connection 
+[2023-03-28 09:27:56] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2023-03-28 09:28:03] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:50434->127.0.0.1:8566: use of closed network connection 
+[2023-03-28 09:28:06] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8566/ws 时出现错误: read tcp 127.0.0.1:51186->127.0.0.1:8566: read: connection reset by peer 
+[2023-03-28 09:42:09] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2023-03-28 09:42:13] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:51206->127.0.0.1:8566: use of closed network connection 
+[2023-03-28 09:42:16] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8566/ws 时出现错误: read tcp 127.0.0.1:52486->127.0.0.1:8566: read: connection reset by peer 
+[2023-03-28 09:42:19] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8566/ws 时出现错误: read tcp 127.0.0.1:52490->127.0.0.1:8566: read: connection reset by peer 
